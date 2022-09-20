@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flaticon/flaticon-uicons.git"
+    "url": "git+https://github.com/NaqibAli/Uicons-v2.git"
   },
   "keywords": [
     "icons",
@@ -37,9 +37,9 @@
   "author": "Naqib Ali",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flaticon/flaticon-uicons/issues"
+    "url": "https://github.com/NaqibAli/Uicons-v2/issues"
   },
-  "homepage": "https://github.com/flaticon/flaticon-uicons#readme",
+  "homepage": "https://github.com/NaqibAli/Uicons-v2#readme",
   "devDependencies": {
     "esbuild": "^0.14.5",
     "esbuild-plugin-glob": "^1.0.3",
