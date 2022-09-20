@@ -30,7 +30,7 @@ Open-source Over 4,000 SVG and web font-optimal vector-based icons available for
 Install the latest version via npm
 
 ```shell
-npm i @flaticon/flaticon-uicons
+npm i @naqibka/uicons_v2
 ```
 
 Using Package Manager \
@@ -51,14 +51,14 @@ This package contains the following directories and files:
 #### 1. All icons
 
 ```css
-@import "~@flaticon/flaticon-uicons/css/all/all";
+@import "~@naqibka/uicons_v2/css/all/all";
 ```
 
 #### 2. Single style
 
 ```css
-@import "~@flaticon/flaticon-uicons/css/{FONTWEIGHT}/{STYLENAME}";
-@import "~@flaticon/flaticon-uicons/css/brands/all";
+@import "~@naqibka/uicons_v2/css/{FONTWEIGHT}/{STYLENAME}";
+@import "~@naqibka/uicons_v2/css/brands/all";
 ```
 
 | WEIGHT &nbsp; | CORNER &nbsp; | PREFIX &nbsp; | EXAMPLE                                 |
